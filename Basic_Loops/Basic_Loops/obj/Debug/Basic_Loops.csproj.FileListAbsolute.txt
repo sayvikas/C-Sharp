@@ -1,1 +1,6 @@
 E:\Git\C#\Basic_Loops\Basic_Loops\bin\Debug\Basic_Loops.exe.config
+E:\Git\C#\Basic_Loops\Basic_Loops\bin\Debug\Basic_Loops.exe
+E:\Git\C#\Basic_Loops\Basic_Loops\bin\Debug\Basic_Loops.pdb
+E:\Git\C#\Basic_Loops\Basic_Loops\obj\Debug\Basic_Loops.csprojResolveAssemblyReference.cache
+E:\Git\C#\Basic_Loops\Basic_Loops\obj\Debug\Basic_Loops.exe
+E:\Git\C#\Basic_Loops\Basic_Loops\obj\Debug\Basic_Loops.pdb
