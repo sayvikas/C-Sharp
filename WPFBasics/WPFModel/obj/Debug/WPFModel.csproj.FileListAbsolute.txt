@@ -1,0 +1,4 @@
+E:\Git\C#\WPFBasics\WPFModel\bin\Debug\WPFModel.dll
+E:\Git\C#\WPFBasics\WPFModel\bin\Debug\WPFModel.pdb
+E:\Git\C#\WPFBasics\WPFModel\obj\Debug\WPFModel.dll
+E:\Git\C#\WPFBasics\WPFModel\obj\Debug\WPFModel.pdb

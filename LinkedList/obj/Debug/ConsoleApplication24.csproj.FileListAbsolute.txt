@@ -1,0 +1,6 @@
+c:\users\vmishra\documents\visual studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+c:\users\vmishra\documents\visual studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+c:\users\vmishra\documents\visual studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+c:\users\vmishra\documents\visual studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
+c:\users\vmishra\documents\visual studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+c:\users\vmishra\documents\visual studio 2015\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
