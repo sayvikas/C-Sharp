@@ -1,0 +1,12 @@
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\PDFParsingEngine.Test.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\PDFParsingEngine.Test.pdb
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\PDFParsingEngine.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\itextsharp.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\PDFParsingEngine.pdb
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\bin\Debug\itextsharp.xml
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\obj\Debug\PDFParsingEngine.Test.csprojResolveAssemblyReference.cache
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\obj\Debug\PDFParsingEngine.Test.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine.Test\obj\Debug\PDFParsingEngine.Test.pdb

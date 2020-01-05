@@ -1,0 +1,7 @@
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine\bin\Debug\PDFParsingEngine.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine\bin\Debug\PDFParsingEngine.pdb
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine\bin\Debug\itextsharp.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine\bin\Debug\itextsharp.xml
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine\obj\Debug\PDFParsingEngine.dll
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine\obj\Debug\PDFParsingEngine.pdb
+E:\Git\C#\Samples\PDFParser\PDFParsingEngine\obj\Debug\PDFParsingEngine.csprojResolveAssemblyReference.cache
