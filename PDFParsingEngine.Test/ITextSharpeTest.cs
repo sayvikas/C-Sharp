@@ -19,7 +19,6 @@ namespace PDFParsingEngine.Test
         [TestMethod]
         public void IsPdfFileExists()
         {
-
             Assert.IsTrue(File.Exists(pdfPath));
         }
 
